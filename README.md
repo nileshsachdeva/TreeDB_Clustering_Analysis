@@ -1,0 +1,2 @@
+# TreeDB_Clustering_Analysis
+Clustering Analysis has been performed on the data collected by Public Tree Management Division of Open Space and Environmental Services department of Wollongong City Council. It was a part of a collaborative project on optimization of tree selection for public spaces. Relevant attributes of the dataset have been analysed and and datapoints have been grouped into appropriate clusters using K-Means and DBSCAN algorithms.
